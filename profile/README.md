@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./assets/Viet-Nam-API-Sharing-Community.png" alt="Viet Nam API Sharing Community logo" width="350" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,45:dc2626,100:0ea5e9&text=Vietnam%20API%20Sharing%20Community&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Open%20APIs%20%E2%80%A2%20SDKs%20%E2%80%A2%20Banking%20Integrations%20%E2%80%A2%20Developer%20Automation&descAlignY=58&descSize=17" alt="Vietnam API Sharing Community banner" width="100%" />
 
@@ -168,55 +169,7 @@ The organization focuses on practical API assets: banking integration examples, 
 
 <sub>Dynamic metrics are updated by the repository workflow in `.github/workflows/profile-metrics.yml` after deployment.</sub>
 
-<!-- ORG-PROFILE-METRICS:END -->
-
----
-
-## Dynamic Language Coverage
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viet-Nam-API-Sharing-Community&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=560" alt="Vietnam API Sharing Community top languages" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viet-Nam-API-Sharing-Community&theme=github_dark" alt="Vietnam API Sharing Community repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viet-Nam-API-Sharing-Community&theme=github_dark" alt="Vietnam API Sharing Community most committed languages" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Viet-Nam-API-Sharing-Community&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Vietnam API Sharing Community GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viet-Nam-API-Sharing-Community&theme=github_dark" alt="Vietnam API Sharing Community GitHub summary stats" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viet-Nam-API-Sharing-Community&theme=github_dark" alt="Vietnam API Sharing Community profile details" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viet-Nam-API-Sharing-Community&theme=github_dark&utcOffset=7" alt="Vietnam API Sharing Community productive time" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Viet-Nam-API-Sharing-Community&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Vietnam API Sharing Community GitHub trophies" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viet-Nam-API-Sharing-Community&theme=react-dark&hide_border=true&area=true&custom_title=Vietnam%20API%20Sharing%20Community%20Contribution%20Graph" alt="Vietnam API Sharing Community contribution graph" />
-
-</div>
+<!-- ORG-PROFILE-METRICS:END -->  
 
 ---
 
