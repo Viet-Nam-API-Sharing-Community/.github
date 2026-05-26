@@ -1,0 +1,36 @@
+name: Update organization profile metrics
+
+on:
+  schedule:
+    - cron: "50 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    env:
+      ORG_LOGIN: Viet-Nam-API-Sharing-Community
+      ORG_LABEL: Vietnam API Sharing Community
+      ORG_POSITIONING: open API references, integration SDKs, banking automation, and developer enablement
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate profile metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_org_profile_metrics.py
+
+      - name: Commit generated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update organization profile metrics"
+          file_pattern: profile/README.md
