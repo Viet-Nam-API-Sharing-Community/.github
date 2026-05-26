@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/Viet-Nam-API-Sharing-Community.png" alt="Viet Nam API Sharing Community logo" width="350" />
+<img src="./assets/Viet-Nam-API-Sharing-Community.png" alt="Viet Nam API Sharing Community logo" width="200" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,45:dc2626,100:0ea5e9&text=Vietnam%20API%20Sharing%20Community&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Open%20APIs%20%E2%80%A2%20SDKs%20%E2%80%A2%20Banking%20Integrations%20%E2%80%A2%20Developer%20Automation&descAlignY=58&descSize=17" alt="Vietnam API Sharing Community banner" width="100%" />
 
