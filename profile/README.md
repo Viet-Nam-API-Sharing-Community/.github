@@ -135,39 +135,65 @@ The organization focuses on practical API assets: banking integration examples, 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=postman&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-64748B?style=for-the-badge&logo=ejs&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-> This generated section is designed to refresh automatically from GitHub repository data. It tracks public repositories, language coverage, API implementation patterns, and high-signal community projects.
+> Auto-generated organization intelligence for **Vietnam API Sharing Community**. This profile scans public repositories, language coverage, repository signals, and inferred capabilities for: **open API references, integration SDKs, banking automation, and developer enablement**.
 
 ### Real-time organization signals
 
-| Signal | Value |
+| Live signal | Value |
 |---|---:|
-| Public repositories | **22** |
-| Primary engineering lane | **API integrations and SDK references** |
-| Top repository languages | **Python · JavaScript · TypeScript · HTML** |
-| Community focus | **Banking APIs · FastAPI services · SDKs · automation tools** |
-| Automation model | **Scheduled GitHub Actions + live README widgets** |
+| Public repositories monitored | **23** |
+| Active source repositories | **23** |
+| Detected source languages | **8** |
+| Aggregate public stars | **0** |
+| Aggregate public forks | **0** |
+| Leading language by code volume | **Python** |
+| Most recent public repository update | **2026-05-26** |
 
-### Strategic repositories
+### Dynamic language coverage
+
+| Language | Usage | Share |
+|---|---:|---|
+| **Python** | `█████████████████░░░` | **85.7%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.1%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **3.5%** |
+| **TypeScript** | `█░░░░░░░░░░░░░░░░░░░` | **2.8%** |
+| **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
+| **EJS** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.3%** |
+| **Dockerfile** | `█░░░░░░░░░░░░░░░░░░░` | **0.2%** |
+
+### Auto-detected technology stack
+
+| Auto-detected capability | Signal |
+|---|---|
+| **Languages & backend** | Python · FastAPI · SDK Engineering · JavaScript · TypeScript · Node.js · PHP · Laravel · Backend Engineering |
+| **Cloud / DevOps / infrastructure** | Docker · Containerization · Deployment Automation |
+| **AI / automation / developer tooling** | Automation · Developer Platforms · VS Code Extension |
+| **API / documentation / community** | Documentation · Static UI |
+
+### High-signal repositories
 
 | Repository | Engineering signal |
 |---|---|
-| [`ocb_python`](https://github.com/Viet-Nam-API-Sharing-Community/ocb_python) | OCB integration reference for Python developers. |
-| [`ocb_biz_python-v2`](https://github.com/Viet-Nam-API-Sharing-Community/ocb_biz_python-v2) | OCB business banking Python implementation reference. |
-| [`msb_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_python) | MSB banking integration reference. |
-| [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | MB Bank business banking integration reference. |
-| [`lpbank`](https://github.com/Viet-Nam-API-Sharing-Community/lpbank) | LPBank TypeScript SDK and integration package. |
-| [`acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | FastAPI service for ACB banking integration workflows. |
-| [`Api-Mbbank-Biz`](https://github.com/Viet-Nam-API-Sharing-Community/Api-Mbbank-Biz) | Automated banking integration reference implementation. |
-| [`bank-captcha`](https://github.com/Viet-Nam-API-Sharing-Community/bank-captcha) | CAPTCHA and automation tooling for API workflows. |
+| [`msb_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_biz_python) | Python · msb_biz_python |
+| [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | Python · mbbank_biz_python |
+| [`eximbank_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_python) | Python · eximbank_python |
+| [`eximbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_biz_python) | Python · eximbank_biz_python |
+| [`BIDV-BIZ-PYTHON`](https://github.com/Viet-Nam-API-Sharing-Community/BIDV-BIZ-PYTHON) | Python · BIDV-BIZ-PYTHON |
+| [`bank-captcha`](https://github.com/Viet-Nam-API-Sharing-Community/bank-captcha) | bank-captcha |
+| [`namabank`](https://github.com/Viet-Nam-API-Sharing-Community/namabank) | Python · namabank |
+| [`bacabank_python`](https://github.com/Viet-Nam-API-Sharing-Community/bacabank_python) | HTML · bacabank_python |
 
-<sub>Dynamic metrics are updated by the repository workflow in `.github/workflows/profile-metrics.yml` after deployment.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-27 05:05 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
