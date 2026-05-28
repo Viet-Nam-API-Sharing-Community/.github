@@ -150,13 +150,13 @@ The organization focuses on practical API assets: banking integration examples, 
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **23** |
-| Active source repositories | **23** |
+| Public repositories monitored | **24** |
+| Active source repositories | **24** |
 | Detected source languages | **8** |
 | Aggregate public stars | **0** |
 | Aggregate public forks | **0** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-05-26** |
+| Most recent public repository update | **2026-05-27** |
 
 ### Dynamic language coverage
 
@@ -193,7 +193,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | [`namabank`](https://github.com/Viet-Nam-API-Sharing-Community/namabank) | Python · namabank |
 | [`bacabank_python`](https://github.com/Viet-Nam-API-Sharing-Community/bacabank_python) | HTML · bacabank_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-27 05:05 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-28 05:01 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
