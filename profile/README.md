@@ -156,7 +156,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | Aggregate public stars | **0** |
 | Aggregate public forks | **0** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-06-13** |
+| Most recent public repository update | **2026-06-14** |
 
 ### Dynamic language coverage
 
@@ -193,7 +193,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | [`namabank`](https://github.com/Viet-Nam-API-Sharing-Community/namabank) | Python · namabank |
 | [`bacabank_python`](https://github.com/Viet-Nam-API-Sharing-Community/bacabank_python) | HTML · bacabank_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-14 05:21 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-15 06:10 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
