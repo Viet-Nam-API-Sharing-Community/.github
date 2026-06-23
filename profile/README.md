@@ -150,24 +150,24 @@ The organization focuses on practical API assets: banking integration examples, 
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **24** |
-| Active source repositories | **24** |
+| Public repositories monitored | **28** |
+| Active source repositories | **28** |
 | Detected source languages | **8** |
 | Aggregate public stars | **0** |
 | Aggregate public forks | **0** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-06-21** |
+| Most recent public repository update | **2026-06-22** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **Python** | `█████████████████░░░` | **85.7%** |
-| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.1%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **3.5%** |
-| **TypeScript** | `█░░░░░░░░░░░░░░░░░░░` | **2.8%** |
-| **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
-| **EJS** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **Python** | `██████████████████░░` | **87.9%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.4%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **3.0%** |
+| **TypeScript** | `█░░░░░░░░░░░░░░░░░░░` | **2.4%** |
+| **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **EJS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.3%** |
 | **Dockerfile** | `█░░░░░░░░░░░░░░░░░░░` | **0.2%** |
 
@@ -184,16 +184,16 @@ The organization focuses on practical API assets: banking integration examples, 
 
 | Repository | Engineering signal |
 |---|---|
+| [`techcombank_python`](https://github.com/Viet-Nam-API-Sharing-Community/techcombank_python) | Python · techcombank_python |
+| [`techcombank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/techcombank_biz_python) | Python · techcombank_biz_python |
+| [`pgbank_python_v2`](https://github.com/Viet-Nam-API-Sharing-Community/pgbank_python_v2) | Python · pgbank_python_v2 |
+| [`PGBank_Python`](https://github.com/Viet-Nam-API-Sharing-Community/PGBank_Python) | Python · PGBank Python API |
 | [`msb_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_biz_python) | Python · msb_biz_python |
 | [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | Python · mbbank_biz_python |
 | [`eximbank_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_python) | Python · eximbank_python |
 | [`eximbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_biz_python) | Python · eximbank_biz_python |
-| [`BIDV-BIZ-PYTHON`](https://github.com/Viet-Nam-API-Sharing-Community/BIDV-BIZ-PYTHON) | Python · BIDV-BIZ-PYTHON |
-| [`bank-captcha`](https://github.com/Viet-Nam-API-Sharing-Community/bank-captcha) | bank-captcha |
-| [`namabank`](https://github.com/Viet-Nam-API-Sharing-Community/namabank) | Python · namabank |
-| [`bacabank_python`](https://github.com/Viet-Nam-API-Sharing-Community/bacabank_python) | HTML · bacabank_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-22 06:14 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-23 04:47 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
