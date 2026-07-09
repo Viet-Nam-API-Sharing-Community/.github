@@ -154,9 +154,9 @@ The organization focuses on practical API assets: banking integration examples, 
 | Active source repositories | **28** |
 | Detected source languages | **8** |
 | Aggregate public stars | **0** |
-| Aggregate public forks | **0** |
+| Aggregate public forks | **1** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-07-07** |
+| Most recent public repository update | **2026-07-08** |
 
 ### Dynamic language coverage
 
@@ -184,6 +184,7 @@ The organization focuses on practical API assets: banking integration examples, 
 
 | Repository | Engineering signal |
 |---|---|
+| [`acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | Python · Dự án này cung cấp API cho các chức năng ngân hàng ACB sử dụng FastAPI · ⑂ 1 |
 | [`techcombank_python`](https://github.com/Viet-Nam-API-Sharing-Community/techcombank_python) | Python · techcombank_python |
 | [`techcombank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/techcombank_biz_python) | Python · techcombank_biz_python |
 | [`pgbank_python_v2`](https://github.com/Viet-Nam-API-Sharing-Community/pgbank_python_v2) | Python · pgbank_python_v2 |
@@ -191,9 +192,8 @@ The organization focuses on practical API assets: banking integration examples, 
 | [`msb_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_biz_python) | Python · msb_biz_python |
 | [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | Python · mbbank_biz_python |
 | [`eximbank_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_python) | Python · eximbank_python |
-| [`eximbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_biz_python) | Python · eximbank_biz_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-08 03:59 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-09 04:43 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
