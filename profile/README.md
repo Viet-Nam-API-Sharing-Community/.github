@@ -156,7 +156,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | Aggregate public stars | **0** |
 | Aggregate public forks | **1** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-07-16** |
+| Most recent public repository update | **2026-07-17** |
 
 ### Dynamic language coverage
 
@@ -193,7 +193,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | Python · mbbank_biz_python |
 | [`eximbank_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_python) | Python · eximbank_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-17 03:52 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-18 03:45 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
