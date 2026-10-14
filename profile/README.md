@@ -156,18 +156,18 @@ The organization focuses on practical API assets: banking integration examples, 
 | Aggregate public stars | **0** |
 | Aggregate public forks | **1** |
 | Leading language by code volume | **Python** |
-| Most recent public repository update | **2026-10-12** |
+| Most recent public repository update | **2026-10-13** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **Python** | `██████████████████░░` | **87.9%** |
-| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.4%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **3.0%** |
-| **TypeScript** | `█░░░░░░░░░░░░░░░░░░░` | **2.4%** |
+| **Python** | `██████████████████░░` | **88.2%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.2%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **2.9%** |
+| **TypeScript** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
 | **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
-| **EJS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **EJS** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.3%** |
 | **Dockerfile** | `█░░░░░░░░░░░░░░░░░░░` | **0.2%** |
 
@@ -193,7 +193,7 @@ The organization focuses on practical API assets: banking integration examples, 
 | [`mbbank_biz_python`](https://github.com/Viet-Nam-API-Sharing-Community/mbbank_biz_python) | Python · mbbank_biz_python |
 | [`eximbank_python`](https://github.com/Viet-Nam-API-Sharing-Community/eximbank_python) | Python · eximbank_python |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-13 07:08 UTC. Detected 8 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-14 05:28 UTC. Detected 8 languages from GitHub repository language data.</sub>
 
 <!-- ORG-PROFILE-METRICS:END -->  
 
